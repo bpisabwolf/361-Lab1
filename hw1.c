@@ -2,5 +2,4 @@
 
 int main(){
   printf("bpisab3\n");
-  return;
 }
