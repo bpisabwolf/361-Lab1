@@ -1,21 +1,12 @@
 #include <stdio.h>
 struct node{
-  //char myArray[37];
-  long one;
-  char myone;
-  char mytwo;
-  char mythree;
-  char myfour;
-  char myfive;
+  char myArray[37];
 };
 
 
 
 int main(){
-  struct node someNode;
-  printf("huh\n");
   printf("%s%d\n", "bpisab",3);
-  printf("%lu\n", sizeof(someNode));
   return 0;
 
 }
